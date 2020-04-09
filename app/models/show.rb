@@ -4,7 +4,7 @@ class Show < ActiveRecord::Base
   end
   binding.pry
   def self.most_popular_show 
-    self.
+    
   end
   
   def self.least_popular_show
